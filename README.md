@@ -8,6 +8,8 @@ Created as a mean to see which stocks to invest or find trends in stock performa
 
 ## Build Status
 
+- In progress
+
 ## Tech Stacks
 
 - FERN (Firebase, Express, React, NodeJS)
