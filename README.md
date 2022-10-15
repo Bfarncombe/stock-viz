@@ -8,15 +8,9 @@ Created as a mean to see which stocks to invest or find trends in stock performa
 
 ## Build Status
 
-- MVP complete.
-- WIP: Authentication for users, watchlist, premium subscription services
-
 ## Tech Stacks
 
 - FERN (Firebase, Express, React, NodeJS)
-- Data visualization: Chart.js
+- Data visualization: Apex Charts
 
 ## Installation
-
-- after git clone, run `npm install`, and `npm install -D concurrently nodemon`
-- To Connect MongoDB cloud server, go to default.json in config folder and add url there
